@@ -1,0 +1,9 @@
+Package: com.0xkuj.snoozelabels
+Name: SnoozeLabels
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Replace the snoozing title for your alarms with your actual alarm label
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
